@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "Nexus21Plugin",
   "pluginType": "platform",
   "singular": true,
   "schema": {
